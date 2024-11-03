@@ -1,0 +1,1 @@
+console.log("Log 1. => This is a nodejs file. Jenkins test 1 .")

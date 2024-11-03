@@ -1,1 +1,1 @@
-console.log("This is log 3 from the nodejs-jenkins test project.")
+console.log("This is log 4 from the nodejs-jenkins test project.")

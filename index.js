@@ -1,1 +1,1 @@
-console.log("Log 3 => This is a nodejs file. Jenkins test 1 .")
+console.log("This is log 3 from the nodejs-jenkins test project.")
